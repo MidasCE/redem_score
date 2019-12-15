@@ -1,8 +1,8 @@
-# Redem-ScoreDB
+# Redem-Score
 
 RedM Script By MidasCE
 
-Simple code to update the user score to database. All you need to do is add `ensure Redem-ScoreDB` in server.cfg after redem_roleplay and run sql file to your sql database.
+Simple code to update the user score to database. All you need to do is add `ensure redem-score` in server.cfg after redem_roleplay and run sql file to your sql database.
 
 Dependencies : 
 
