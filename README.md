@@ -8,10 +8,11 @@ Dependencies :
 
 https://github.com/RedEM-RP/redem_roleplay 
 
-# Example use case
+# Example use case (Client side)
 
 
 ```
+  -- When player is dead.
   TriggerServerEvent("character_score:updateDeathScore")`-- This will increment death count (+1)
 
   -- Check that if player kill himself or not
